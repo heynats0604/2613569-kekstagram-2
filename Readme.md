@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Natalia Volkova](https://up.htmlacademy.ru/javascript-individual/2/user/2613569).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Сигаев`.
 
 ---
 
